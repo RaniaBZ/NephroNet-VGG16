@@ -20,7 +20,7 @@ def get_requirements(filepath:str)->List[str]:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Kidney-disease-classification"
+REPO_NAME = "NephroNet-VGG16"
 AUTHOR_USER_NAME = "RaniaBZ"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "raniabinthzubair@gmail.com"
